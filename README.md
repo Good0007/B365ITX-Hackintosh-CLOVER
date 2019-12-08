@@ -32,6 +32,8 @@ OC的配置比较复杂现在版本更新也很快还是等更加稳定再上。
 
 - 镜像下载：[黑果小兵博客镜像地址](https://blog.daliansky.net/macOS-Catalina-10.15.1-19B88-Release-version-with-Clover-5098-original-image-Double-EFI-Version.html "黑果小兵10.15.1镜像")
 
+- 安装完成建议安装rc.script来模拟nvram，以避免睡眠出现问题，如果用这没问题就忽略吧
+
 - 常见问题：[安装常见问题](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html "安装常见问题")
 
 - Etcher烧录工具：[Etcher烧录工具](https://www.balena.io/etcher/ "Etcher烧录工具")
