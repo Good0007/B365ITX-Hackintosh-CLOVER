@@ -1,6 +1,7 @@
 ## B365ITX-Hackintosh-OC 华擎B365ITX 黑苹果CLOVER 配置
 
 由于clover进引导界面较慢，我现在已经转OC，以后可能OC更新的更多，强烈推荐用oc引导，更加接近白苹果。release-20200105 这可能是最后一个clover版本： PS:该版本加入了强制睡眠0d/6d补丁，睡眠唤醒只能用电源键
+[博客同步更新](https://www.chenweikang.top/?p=846 "华擎 Asrock B365ITX macOS Catalina 完美黑苹果 OC/Clover双版本")
 
 ### 主机配置
 - 机箱：某宝（魔神科技)xs1机箱
